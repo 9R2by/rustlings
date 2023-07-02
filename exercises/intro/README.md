@@ -1,6 +1,6 @@
 # Intro
-
-Rust uses the `print!` and `println!` macros to print text to the console.
+he `
+Rust uses tprint!` and `println!` macros to print text to the console.
 
 ## Further information
 
